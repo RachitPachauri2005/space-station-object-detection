@@ -6,6 +6,19 @@
 
 ---
 
+## 📁 Complete Project Files
+
+**📦 Google Drive Repository**: [Download Complete Project Files](https://drive.google.com/drive/folders/1goXFMBTSp_FAVyi22TOElSoHal358VSw?usp=sharing)
+
+The Google Drive contains:
+- **Dataset**: Complete training, validation, and test data
+- **Model Weights**: Trained YOLOv8 models (`.pt` files)
+- **Training Results**: Full training logs and visualizations
+- **Demo Video**: Application demonstration video
+- **Additional Resources**: All project files and documentation
+
+---
+
 ## 🎯 Project Overview
 
 This project implements a robust YOLOv8 object detection model for identifying critical objects in space station environments using synthetic data from Duality AI's Falcon digital twin platform. The model detects three essential objects:
