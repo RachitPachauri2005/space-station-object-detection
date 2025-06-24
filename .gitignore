@@ -61,6 +61,11 @@ data/
 *.tiff
 *.tif
 
+# Allow demo videos but exclude other videos
+*.mp4
+!demo_video.mp4
+!*.demo.mp4
+
 # Logs and temporary files
 *.log
 *.tmp
