@@ -6,7 +6,7 @@
 
 **Team Members:Sandeep Kumar,Rachit Pachauri,Samyak Jain**
 
-**Date: June 2025**
+**Date: 25 June 2025**
 
 ---
 
