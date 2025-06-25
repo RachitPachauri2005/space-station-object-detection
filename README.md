@@ -1,7 +1,9 @@
 # 🚀 Space Station Object Detection with YOLOv8
 
 **Duality AI Space Station Hackathon Project**  
-**Team: RachitPachauri2005**  
+**Team: Code Warrior**  
+**DEMO video(LINKEDIN ):https://www.linkedin.com/in/sandeep-kumar-303bbb25a/**
+**Team Members:Sandeep Kumar,Rachit Pachauri,Samyak Jain**
 **Date: June 2025**
 
 ---
@@ -209,7 +211,7 @@ This is a hackathon project. For questions or collaboration, please contact the 
 
 ## 📞 Contact
 
-**Team**: RachitPachauri2005  
+**Team**: Code Warrior  
 **Project**: Space Station Object Detection  
 **Hackathon**: Duality AI Space Station Hackathon
 
