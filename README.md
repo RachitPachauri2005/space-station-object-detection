@@ -213,7 +213,7 @@ This is a hackathon project. For questions or collaboration, please contact the 
 
 ## 📞 Contact
 
-**Team**: Code Warrior  
+**Team**: Error 
 **Project**: Space Station Object Detection  
 **Hackathon**: Duality AI Space Station Hackathon
 
