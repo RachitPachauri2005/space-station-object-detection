@@ -12,9 +12,9 @@
 
 ## 📁 Complete Project Files
 
-**📦 Google Drive Repository**: [Download Complete Project Files](https://drive.google.com/drive/folders/1goXFMBTSp_FAVyi22TOElSoHal358VSw?usp=sharing)
 
-The Google Drive contains:
+
+This contains:
 - **Dataset**: Complete training, validation, and test data
 - **Model Weights**: Trained YOLOv8 models (`.pt` files)
 - **Training Results**: Full training logs and visualizations
