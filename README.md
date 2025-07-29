@@ -2,7 +2,7 @@
 
 **Duality AI Space Station Hackathon Project**  
 **Team: Code Warrior**  
-**DEMO video(LINKEDIN ):https://www.linkedin.com/in/sandeep-kumar-303bbb25a/**
+**DEMO video(LINKEDIN ): https://www.linkedin.com/posts/sandeep-kumar-303bbb25a_ai-computervision-yolov8-activity-7343701885381394432-BV2B?utm_source=share&utm_medium=member_android&rcm=ACoAAEdjCpoBi2zwbyG8is54eC1-Q_F2zujqMtA  **
 
 **Team Members:Sandeep Kumar,Rachit Pachauri,Samyak Jain**
 
